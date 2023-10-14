@@ -6,6 +6,25 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Python-OpenCV-yellow" alt="shields"><img src="https://img.shields.io/badge/EZCheckIn-Raghu-green" alt="shields"></p>
 
+## ✅ project steps 
+
+The following steps are taken in consideration for my project:
+1.  Set Up Your Development Environment
+2.  Library Installation
+3.  Firebase Configuration
+4.  Project Structure
+5.  Data Collection
+6.  Firebase Integration
+7.  Attendance System UI perfection
+8.  Testing and Debugging
+9.  Documentation
+10.  Deployment
+
+
+
+
+
+
 <h2>🚀 Demo</h2>
 
 [https://github.com/Raghunath-arcot/faceRecogAttendanceSystem\_withBackend/assets/106887145/0cb09e99-22ce-44ae-b6db-a2d190105f22](https://github.com/Raghunath-arcot/faceRecogAttendanceSystem_withBackend/assets/106887145/0cb09e99-22ce-44ae-b6db-a2d190105f22)
