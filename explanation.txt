@@ -1,0 +1,7 @@
+ 1. 
+2. list of libraries:
+ 	cmake, dlib, face-recognition, cvzone, opencv-python,  
+3. encoding:
+we have to encode , we have to generate the data for all measurement and storre it in a file and that file is displayed in face reg
+4. firebase - database - realtime, easy to setup, very easy to scale the databse
+5. import firebase_admin, firebase-admin
