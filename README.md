@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Python-OpenCV-yellow" alt="shields"><img src="https://img.shields.io/badge/EZCheckIn-Raghu-green" alt="shields"></p>
 
-## ✅ project steps 
+## ✅ project steps -->
 
 The following steps are taken in consideration for my project:
 1.  Set Up Your Development Environment
