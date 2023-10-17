@@ -19,6 +19,7 @@ The following steps are taken in consideration for my project:
 8.  Testing and Debugging
 9.  Documentation
 10.  Deployment
+11.  Done
 
 
 
