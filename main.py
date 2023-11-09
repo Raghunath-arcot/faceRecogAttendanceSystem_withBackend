@@ -10,11 +10,7 @@ from firebase_admin import db
 from firebase_admin import storage
 from datetime import datetime
 
-cred = credentials.Certificate("serviceAccountKey.json")
-firebase_admin.initialize_app(cred,{
-    'databaseURL': "https://realtimefaceattendance-e49f5-default-rtdb.firebaseio.com/",
-    'storageBucket': "realtimefaceattendance-e49f5.appspot.com"
-})
+
 
 bucket = storage.bucket()
 
