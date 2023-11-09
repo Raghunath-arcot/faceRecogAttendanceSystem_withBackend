@@ -7,11 +7,7 @@ from firebase_admin import credentials
 from firebase_admin import db
 from firebase_admin import storage
 
-cred = credentials.Certificate("serviceAccountKey.json")
-firebase_admin.initialize_app(cred,{
-    'databaseURL': "https://realtimefaceattendance-e49f5-default-rtdb.firebaseio.com/",
-    'storageBucket': "realtimefaceattendance-e49f5.appspot.com"
-})
+
 
 
 #import all photos , once we have the Images we're going to encode one by one and store in the list
